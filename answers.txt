@@ -1,0 +1,5 @@
+ using ls > newfile.txt, i didnt seemuch change, so im not exactly sure what it did. i imagine it changes something in its directory, but im not certain
+
+using git add, we can skip the normal process of "git add ." which would add all changes that you did in this directory and gets them ready to be pushed into github itself. its ready to be pushed, essentially
+
+git diff looks to show what is typed intothe file onto the screen. i imagine that if you are actually able to do things with the things inside the file, you can acces them through here
